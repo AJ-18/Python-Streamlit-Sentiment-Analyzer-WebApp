@@ -1,4 +1,3 @@
-from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 analyzer = SentimentIntensityAnalyzer()
