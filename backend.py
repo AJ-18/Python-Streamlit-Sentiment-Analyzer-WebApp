@@ -1,7 +1,6 @@
 from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-english_stopwords = stopwords.words("english")
 analyzer = SentimentIntensityAnalyzer()
 
 day = 21
